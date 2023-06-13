@@ -1,1 +1,2 @@
-# Scipts
+# Scripts
+Various Useful Scripts
